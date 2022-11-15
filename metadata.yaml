@@ -1,0 +1,28 @@
+_repo: History-for-ready-reference-Volume-4-of-6-Nic0xe6a-to-Tunis_69262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larned, J. N. (Josephus Nelson)
+    alias: Larned, Josephus Nelson
+    birthdate: 1836
+    deathdate: 1913
+    gutenberg_agent_id: '53280'
+    url: http://www.gutenberg.org/2009/agents/53280
+    wikipedia: https://en.wikipedia.org/wiki/Josephus_Nelson_Larned
+description: ''
+gutenberg_issued: '2022-10-30'
+identifiers:
+  gutenberg: '69262'
+language: en
+pgterms:marc905: 20201109114902larned
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Don Kostuch
+publication_note: 'United States: C. A. Nichols Co.,1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'History for ready reference, Volume 4 (of 6): Nicæa to Tunis'
+url: http://www.gutenberg.org/ebooks/69262
